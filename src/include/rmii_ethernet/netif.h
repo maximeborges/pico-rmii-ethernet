@@ -27,6 +27,7 @@ struct netif_rmii_ethernet_config {
     .rx_pin_start = 6, \
     .tx_pin_start = 10, \
     .mdio_pin_start = 14, \
+    .retclk_pin = 21, \
     .mac_addr = NULL \
 }
 
