@@ -1,0 +1,4 @@
+{
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "cortex-debug.openocdPath": "${env:PICO_SDK_PATH}/../openocd/src/openocd",
+}
